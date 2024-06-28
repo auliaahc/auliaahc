@@ -8,6 +8,6 @@
     🎮 Food • Music • Games • Code • Movie
     🌙 Still Learning and Will Be a Lifelong Learner 🪐
 </pre>
-<br><br>
+<br>
 <img src="https://github.com/auliaahc/auliaahc/blob/main/assets/kyubey.gif" height="40" />
 </div>
