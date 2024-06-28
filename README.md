@@ -10,7 +10,4 @@
 </pre>
 <br><br>
 <img src="https://github.com/auliaahc/auliaahc/blob/main/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/auliaheppycs)
 </div>
